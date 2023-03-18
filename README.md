@@ -14,5 +14,12 @@
 </pre>
   
 Zebra TechDocs - Printer Profile Manager Enterprise  
-https://techdocs.zebra.com/link-os/latest/demos/ppme/    
+https://techdocs.zebra.com/link-os/latest/demos/ppme/   
+  
+    
+    
+参考動画  
+Youtube : PPMEへのログインと操作方法 （公開サーバ編）  
+https://www.youtube.com/watch?v=x_kAQuXIe_4&t=4s  
+   
 
